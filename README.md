@@ -19,7 +19,7 @@ A builder at heart who prefers shipping real products over solving theoretical p
 </td>
 <td>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 
 </td>
 </tr>
