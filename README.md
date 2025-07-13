@@ -1,15 +1,31 @@
-# Hey there, I'm Aman Jain 👋
+<div align="center">
 
-I'm an aspiring **Full Stack** and **Mobile App Developer** 🚀                                                                                     ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+<table>
+<tr>
+<td>
+
+<h1>Hey there, I'm Aman 👋</h1>
+
+I'm an aspiring <strong>Full Stack</strong> and <strong>Mobile App Developer</strong> 🚀  
 A builder at heart who prefers shipping real products over solving theoretical puzzles.
 
 🎯 A curious and unconventional techie  
-🎓 Undergrad at **Delhi Technological University (DTU)**  
-📱 Currently leveling up in **React Native**  
+🎓 Undergrad at <strong>Delhi Technological University (DTU)</strong>  
+📱 Currently leveling up in <strong>React Native</strong>  
 🧠 Always hacking together new ideas and refining old ones  
 
-> I believe great things are built when curiosity meets consistency.
+<blockquote><em>I believe great things are built when curiosity meets consistency.</em></blockquote>
 
+</td>
+<td>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="coding gif">
+
+</td>
+</tr>
+</table>
+
+</div>
 
 
 ---
