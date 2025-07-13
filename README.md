@@ -66,8 +66,8 @@ Learning daily, building cool stuff, and always up for a challenge.
 
 ## 📈 GitHub Stats
 
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanJainDTU&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainDTU&layout=compact&theme=radical)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=eternalnomad404&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eternalnomad404&layout=compact&theme=radical)
 
 ---
 
