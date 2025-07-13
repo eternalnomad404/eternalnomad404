@@ -1,11 +1,18 @@
 # Hey there, I'm Aman 👋
 
-I'm a passionate Full Stack Developer in the making 🚀  
-Learning daily, building cool stuff, and always up for a challenge.
+# Hey there, I'm Aman 👋
 
-- 🎯 Currently working on MERN stack projects  
-- 🧠 Exploring the depths of backend development and system design  
-- 🛠️ Always hacking together new ideas and refining old ones  
+I'm an aspiring **Full Stack** and **Mobile App Developer** 🚀  
+A builder at heart who prefers shipping real products over solving theoretical puzzles.
+
+🎯 A curious and unconventional techie  
+🎓 Undergrad at **Delhi Technological University (DTU)**  
+📱 Currently leveling up in **React Native**  
+🧠 Always hacking together new ideas and refining old ones  
+
+> I believe great things are built when curiosity meets consistency.
+
+![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
