@@ -1,6 +1,6 @@
 # Hey there, I'm Aman Jain 👋
 
-I'm an aspiring **Full Stack** and **Mobile App Developer** 🚀                                       ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+I'm an aspiring **Full Stack** and **Mobile App Developer** 🚀                                                                                     ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 A builder at heart who prefers shipping real products over solving theoretical puzzles.
 
 🎯 A curious and unconventional techie  
