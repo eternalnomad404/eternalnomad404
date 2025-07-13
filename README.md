@@ -1,8 +1,6 @@
-# Hey there, I'm Aman 👋
+# Hey there, I'm Aman Jain 👋
 
-# Hey there, I'm Aman 👋
-
-I'm an aspiring **Full Stack** and **Mobile App Developer** 🚀  
+I'm an aspiring **Full Stack** and **Mobile App Developer** 🚀                                       ![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 A builder at heart who prefers shipping real products over solving theoretical puzzles.
 
 🎯 A curious and unconventional techie  
@@ -12,7 +10,7 @@ A builder at heart who prefers shipping real products over solving theoretical p
 
 > I believe great things are built when curiosity meets consistency.
 
-![GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 
 ---
 
